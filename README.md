@@ -4,4 +4,5 @@ This is second line changes.
 This is third line.   
 This is fourth line.  
 This is fifth line.   
-This is sixth line.    
+This is sixth line.   
+This is seventh line. 
